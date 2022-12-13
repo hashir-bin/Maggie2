@@ -1,0 +1,608 @@
+body{
+    margin: 0px;
+    padding: 0px;
+ position: relative;
+    color:#fff;
+    background-color: #f8f8f8;
+}
+.Main-Div{
+    display: flex;
+    background-color:#1d1d20;
+    height: 55px;
+    width: 100%;
+    margin-top: -17px;
+
+}
+.Left-Div{
+display: flex;
+}
+.Arrow-Image{
+    width: 32%;
+    margin-top: 27px;
+    height: 20px;
+    margin-left: 10px;
+}
+.Good{
+    font-size: 12px;
+    margin-top: 30px;
+    margin-left: 1px;
+   font-family: sans-serif;
+    font-weight: 700;
+}
+.Right-Div{
+   display: flex; 
+}
+.Right-Text{
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 28px;
+    margin-left: 30px;
+   
+}
+.Arrow-Down{
+    font-size: 25px;
+    rotate: 89deg;
+    margin-left: 15px;
+    margin-top: 32px;
+}
+.Left-Img{
+    width: 71%;
+    margin-top: 29px;
+    margin-left: 250%;
+    height: 24px;
+}
+.Header-2{
+    display: flex;
+    background-color: #fff;
+    height: 99px;
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    height: 99px;
+    width: 100%;
+    box-shadow: 0px 6px 13px -3px grey;
+}
+.Maggi-Image{
+    margin-left: 48px;
+    width: 7%;
+    height: 70px;
+    margin-top: 18px;
+}
+.Header-2-Text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 34px;
+    font-size: 17px;
+    margin-top: 40px;
+    color: black;
+}
+.Where-Text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    border: solid black 1px;
+    margin: 32px;
+    padding-top: 6px;
+    border-radius: 9px;
+    width: 163px;
+    margin-left: 30px;
+    padding-left: 21px;
+    color: black;
+    transition: 0.5s;
+}
+.Where-Text:hover{
+    background-color:#DA291C;  
+}
+.Image-Div{
+    display: flex;
+    width: 100%;
+}
+.Menu-Div{
+    color: rgb(12, 12, 12);
+    margin-top: -23px;
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+
+}
+   .Whats-Text{
+    font-family: sans-serif;
+    font-family: sans-serif;
+    padding-top: 72px;
+   }
+   .Input{
+    margin-top: 1px;
+    width: 100%;
+   }
+   .Nor{
+    margin-top: -26px;
+    width: 100%;
+    color: white;
+    background-color: #F8F8F8;
+    height: 894px;
+   }
+   .Input-Text{
+    margin-top: 298px;
+    margin-left: 126px;
+    width: 33%;
+    height: 48px;
+   }
+   .Discus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+   }
+   .Discover-Image{
+    margin-left: 60px;
+    margin-top: 62px;
+   }
+   .Set-Image{
+    width: 97%;
+    margin-left: 9px;
+    margin-top: 29px;
+   }
+   .Explore-Div{
+    width: 100%;
+   }
+   .Explore-Image{
+    margin-left: 1px;
+    width: 100%;
+   }
+   .Middle-Div{
+        display: flex;
+        /* background-color: #F8F8F8; */
+        margin-top: 2px;
+   }
+   .Firsht-Image{
+    
+    height: 460px;
+   }
+   .Middle-Div-2{
+    width: 40%;
+    height: 552px;
+    text-align: center;
+    color: black;
+   }
+   .Tis{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 251px;
+    margin-top: 114px;
+    font-size: 17px;
+    font-weight: 540;
+   }
+   .Turkey{
+    margin-top: 15px;
+    font-style: italic;
+    margin-left: 259px;
+    font-size: 34px;
+   }
+   .Image{
+    margin-left: 192px;
+   }
+   .Level-Image{
+    margin-left: 36px;
+    margin-top: -12px;
+   }
+   .Span-Div{
+    margin-top: 7px;
+    margin-left: 234px;
+   }
+   .Span-Text{
+    margin-left: 19px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+   }
+   .Span-Div-2{
+    margin-top: 4px;
+    margin-left: 194px;
+   }
+   .Span-Text-2{
+    margin-left: 43px;
+    font-family: sans-serif;
+    font-size: 13px;
+   }
+   .Make-Btn{
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 13px;
+    width: 124px;
+    height: 45px;
+    background-color: #f8f8f8;
+    font-size: 10px;
+    transition: 0.5s;
+   }
+   .Make-Btn:hover{
+    background-color:#DA291C ;
+   }
+   .Menu-Div{
+    margin-top: -109px;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+   }
+   .Menu-Text{
+    font-family: sans-serif;
+    padding-top: 68px;
+    letter-spacing: 2px;
+    font-size: 24px;
+   }
+   .Input-Div{
+display: flex;
+   }
+   .Input-Left{
+    width: 50%;
+    height: 505px;
+    background-color:#FAF2C5;
+    text-align: center;
+   }
+   .Your-Text{
+    width: 96%;
+    margin-top: 44px;
+    margin-left: -95px;
+   }
+   .Find{
+    color: black;
+    font-size: 16px;
+    font-family: sans-serif;
+   }
+   .Which-Text{
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-left: -146px;
+    margin-top: 28px;
+    color: black;
+   }
+   .Input{
+    width: 54%;
+    margin-left: 23%;
+    height: 37px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+   }
+   .Input-Div{
+    text-align: center;
+    display: flex;
+   }
+   .Plus-Logo{
+    position: absolute;
+    left: 544px;
+    width: 2%;
+    top: 1353px;
+   }
+   .Button{
+    margin-top: 25px;
+    border: solid 1px;
+    border-radius: 11px;
+    width: 160px;
+    color: white;
+    background-color: black;
+    border-color: black;
+    height: 45px;
+    font-weight: 700;
+    font-size: 16px;
+   }
+   .Input-Right{
+    width: 50%;
+    background-color: #FAF2C5;
+   }
+   .Discover-Text{
+    margin-top: 7px;
+    margin-left: 79px;
+   }
+   .Product-Div{
+display: flex;
+color: black;
+   }
+   .Product-1{
+    margin-left: 79px;
+    height: 460px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 23px 6px #cdc9c9;
+   }
+   .Product{
+    margin-left: 16px;
+    height: 460px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 23px 6px #cdc9c9;
+   }
+   .Product-Image{
+    width: 78%;
+    align-items: center;
+    margin-top: 43px;
+    margin-left: 30px;
+   }
+   .Product-Image-3{
+    width: 64%;
+    margin-top: 43px;
+    margin-left: 51px;
+   }
+   .Soup-Text{
+    font-family: sans-serif;
+    margin-left: 24px;
+    margin-top: 18px;
+   }
+   .Black-Text{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-top: -4px;
+    font-weight: bold;
+   }
+   .Where-Button{
+    margin-left: 21px;
+    margin-top: 7px;
+    width: 287px;
+    height: 46px;
+    border-radius: 10px;
+    background-color:#DA291C;
+    border-color:#DA291C;
+    border-bottom-color:#DA291C;
+    border-block-end-color:#DA291C;
+    border-block-start-color:#DA291C;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+   }
+   .See-Btn{
+    background-color: black;
+    color: white;
+    margin-left: 47%;
+    margin-top: 50px;
+    width: 116px;
+    height: 38px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+   
+   }
+   .Explore-Div{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    margin-top: 69px;
+    background-color: #fff;
+   }
+.Explore-Main-Div{
+    display: flex;
+    width: 100%;
+    background-color: #fff;
+}
+.Explore-Product{
+    margin-left: 61px;
+    height: 431px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 23px 6px #e7e0e0;
+    color: black;
+}
+.Explore-Product-Other{
+    margin-left: 16px;
+    height: 431px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 23px 6px #e7e0e0;
+}
+.Explore-Image-Firsht{
+    WIDTH: 100%;
+    height: 305px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.Explore-Image-Other{
+    WIDTH: 100%;
+    height: 305px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.Noodles-Text{
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 16px;
+    color: black;
+}
+.Prep-Text{
+    font-size: 13px;
+    margin-left: 18px;
+    line-height: 21px;
+    font-family: sans-serif;
+    margin-top: -7px;
+    color: black;
+}
+.Btns-Div{
+    width: 100%;
+    height: 202px;
+    background-color: #fff;
+}
+.Spice-Div{
+    background-color: #fff;
+    height: 100px;
+
+
+}
+.Spices-Text{
+    margin-top: -35px;
+    font-family: sans-serif;
+    color: black;
+    font-size: 25px;
+    margin-left: 60px;
+}
+.Input-Name-Div{
+    color: black;
+    margin-top: -47px;
+    background-color: #fff;
+    display: flex;
+}
+.Firsht-Name-Text{
+    margin-left: 50px;
+    margin-left: 64px;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: grey;
+}
+.Red-Text{
+    color: red;
+    font-size: 16px;
+    margin-left: 3px;
+}
+.Name-Input{
+    margin-left: 61px;
+    height: 38px;
+    width: 200px;
+    background-color: #f9f5f5;
+    font-family: sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: black;
+}
+.Other-Div{
+    margin-left: -43px;
+    color: black;
+}
+.Subscribe-Btn{
+    margin-top: 29px;
+    width: 153px;
+    font-size: 17px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    margin-left: 18px;
+    height: 48px;
+}
+
+.Name-Input::placeholder{
+    color:black;
+}
+.Fi{
+    height: 61px;
+    margin-top: 20px;
+    margin-left: 238px;
+    width: 8%;
+}
+.Agree-Text{
+    margin-top: 17px;
+    font-size: 13px;
+    color: #736767;
+}
+.Terms-Text{
+    color: red;
+    margin-top: 17px;
+    font-size: 13px;
+    margin-left: 3px;
+}
+.Check-Div{
+    display: flex;
+    font-family: sans-serif;
+    background-color: #fff;
+    height: 98px;
+}
+.Check-box{
+    margin-left: 63px;
+    width: 24px;
+    border-color: red;
+    height: 60px;
+    margin-top: -6px;
+    color: black;
+}
+.Last-Div{
+    background-color:#F8E600;
+    width: 100%;
+    height: 232px;
+}
+.About-Text{
+    margin-left: 62px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 20px;
+    color:#2e2b2b;
+}
+.Span-Divs{
+    padding-top: 10px;
+    display: flex;
+}
+.P-Div{
+    margin-top: -12px;
+    display: flex;
+}
+.Gs-1{
+    margin-left: 62px;
+    color:#5a5252;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.Gs{
+    margin-left: 19px;
+    color:#5a5252;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.Unless-Text{
+    margin-top: 1px;
+    margin-left: 63px;
+    color:#5a5252;
+    font-family: sans-serif;
+}
+.Fixed-Div{
+    display: flex;
+    z-index: 1;
+    position: fixed;
+    width: 10%;
+    margin-left: 88%;
+    height: 46px;
+    top: 665px;
+    background-color: #005290;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Imoji{
+    z-index: 1;
+    position: fixed;
+    margin-left: 89%;
+    margin-top: 696px;
+    width: 22px;
+}
+.Agent-Text{
+    margin-left: 91%;
+    color: white;
+    position: fixed;
+    margin-top: 699px;
+    z-index: 1;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.Sticky-Div{
+    margin-top: 104%;
+    width: 4%;
+    border-radius: 10px;
+    height: 59px;
+    background-color: #f7f70b;
+    margin-left: 38px;
+}
+.Rotate-Text{
+    margin-left: -109%;
+    color: black;
+    transform: rotate(-95deg);
+    margin-top: -107%;
+}
+.Cook{
+    height: 501px;
+    margin-left: -144px;
+}
+.Popular-Img{
+    margin-top: 38px;
+}
+.Sticky{
+    position: fixed;
+    bottom: 10px;
+    left: 11px;
+    z-index: 1;
+    width: 50px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / Sticky / Back to Top / Active</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48" rx="13"></rect>
+        <filter x="-14.6%" y="-10.4%" width="129.2%" height="129.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design-System" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Library" transform="translate(-360.000000, -738.000000)">
+            <g id="icons" transform="translate(165.000000, 647.000000)">
+                <g id="Icon-/-Sticky-/-Back-to-Top-/-Active" transform="translate(201.000000, 93.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#F8E600" stroke-width="1" stroke-linejoin="square" fill="#F8E600" fill-rule="evenodd" x="0.5" y="0.5" width="47" height="47" rx="13"></rect>
+                    </g>
+                    <polyline id="Arrow" stroke="#222222" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" points="34 29 23.9861654 19 14 29"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
